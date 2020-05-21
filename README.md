@@ -1,6 +1,6 @@
 ## Multiplica Console App
 
-Esta aplicacion genera arcchivos con tablas de multiplicar
+Esta aplicacion genera archivos con tablas de multiplicar
 
 
 Ejecutar comando
